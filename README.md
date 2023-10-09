@@ -1,5 +1,4 @@
 # Real-Time-Currency-Converter
-The goal of the Currency Converter project is to create a shell application that makes it simple for users to convert currency values. To give precise conversion rates, it makes use of shell scripting, functions, and external APIs or lookup tables. The application will display the converted amount once the user enters the amount, the currency to convert from, and the currency to convert to.
 We need to follow these procedures to simulate and run this project code:
 • Create a Linux environment using Fedora, Ubuntu, or CentOS.
 • Make that a shell interpreter, such as Bash, is set up.
